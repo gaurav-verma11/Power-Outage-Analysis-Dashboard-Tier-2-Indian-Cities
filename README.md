@@ -59,9 +59,7 @@ The goal of this project is to:
 
 ## 📸 Sample Dashboard Screenshots
 
-| Overview | Plant Analysis | Summary |
-|----------|----------------|---------|
-| ![](https://github.com/gaurav-verma11/Power-Outage-Analysis-Dashboard-Tier-2-Indian-Cities/blob/main/page1.png.) |
+![Alt text](https://github.com/gaurav-verma11/Power-Outage-Analysis-Dashboard-Tier-2-Indian-Cities/blob/main/page1.png)
 
 ---
 
